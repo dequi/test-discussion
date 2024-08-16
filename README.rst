@@ -9,7 +9,8 @@ Content block derectives
     content block content
 
 .. attention:: title
-    content block content
+   | content block content
+   | line 2
 
 .. caution:: title
     content block content
