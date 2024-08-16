@@ -2,15 +2,15 @@ Content block derectives
 ========================
 
 .. topic:: title
-   | content block content
+ | content block content
    | line2
 
 .. admonition:: title
     content block content
 
 .. attention:: title
-   | content block content
-   | line 2
+|   content block content
+|   line 2
 
 .. caution:: title
     content block content
