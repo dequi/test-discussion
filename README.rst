@@ -1,49 +1,20 @@
 Content block derectives
 ========================
 
-.. topic:: title
- | content block content
-   | line2
+.. note::
+   This is note text. Use a note for information you want the user to
+   pay particular attention to.
 
-.. admonition:: title
-    content block content
+   If note text runs over a line, make sure the lines wrap and are indented to
+   the same level as the note tag. If formatting is incorrect, part of the note
+   might not render in the HTML output.
 
-.. attention:: title
-|   content block content
-|   line 2
+   Notes can have more than one paragraph. Successive paragraphs must
+   indent to the same level as the rest of the note.
 
-.. caution:: title
-    content block content
+.. warning::
+    This is warning text. Use a warning for information the user must
+    understand to avoid negative consequences.
 
-.. danger:: title
-    content block content
-
-.. error:: title
-    content block content
-
-.. hint:: title
-    content block content
-
-.. important:: title
-    content block content
-
-.. note:: title
-    content block content
-
-.. tip:: title
-    content block content
-
-.. warning:: title
-    content block content
-
-.. seealso:: title
-    content block content
-
-.. deprecated:: title
-    content block content
-
-.. versionadded:: title
-    content block content
-
-.. versionchanged:: title
-    content block content
+    Warnings are formatted in the same way as notes. In the same way,
+    lines must be broken and indented under the warning tag.
